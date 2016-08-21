@@ -1,0 +1,32 @@
+{
+    "questions": [{
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+    }, {
+        "id": 2,
+        "question_id": 1,
+        "author_id": 1,
+        "title": "What is your name?"
+    }],
+    "comments": [{
+        "id": 1,
+        "question_id": 2,
+        "author_id": 1,
+        "body": "This is my comment",
+        "date": "01/05/2016"
+    }],
+    "users": [{
+        "id": 1,
+        "title": "Mr.",
+        "name": "Alejandro",
+        "registered": "03/02/2015",
+        "picture": "images/profile.jpg"
+    }, {
+        "id": 2,
+        "title": "Mr.",
+        "name": "Alejandro",
+        "registered": "03/02/2015",
+        "picture": "images/profile.jpg"
+    }]
+}
